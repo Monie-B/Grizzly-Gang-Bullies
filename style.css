@@ -1,0 +1,110 @@
+body {
+    background-image: url('IMG_2503.JPG');
+    background-color: rgb(44, 44, 100);
+    margin: 0;
+}
+
+.title {
+    font-size: xx-large;
+    text-align: center;
+    color: aliceblue;
+    display: inline-block;
+    width: 80%;
+    margin-bottom: 0;
+    margin-top: 3px;
+    vertical-align: top;
+    font-size: 80px;
+}
+
+.main {
+    width: 100px;
+    display: inline-block;
+}
+
+.header {
+    background-color: rgb(21, 10, 31);
+}
+
+/* -------- CSS SECTION FOR GIZMO -------- */
+
+.gizmo-div {
+    width: 600px;
+    display: inline-block;
+}
+
+.gizmoTitle {
+    display: inline-block;
+    width: 100%;
+    text-align: center;
+    background-color: brown;
+    font-size: xx-large;
+}
+
+.gizmoPic {
+    display: inline-block;
+    width: 500px;
+    margin-left: 8%;
+}
+
+.stud-title {
+    background-color: rgb(21, 10, 31);
+    opacity: 0.5;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    width: 100%;
+}
+
+.gizmo-p-text {
+    margin-left: 30px;
+} 
+/* -------- END CSS SECTION FOR GIZMO -------- */
+
+/* -------- START CSS SECTION FOR BELLA -------- */
+
+.bella-div {
+    width: 600px;
+    display: inline-block;
+    vertical-align: top;
+}
+
+.bellaTitle {
+    display: inline-block;
+    width: 100%;
+    text-align: center;
+    background-color: brown;
+    font-size: xx-large;
+    margin-left: 100px;
+}
+
+.bellaPic {
+    display: inline-block;
+    width: 500px;
+    margin-left: 25%;
+    margin-right: 80px;
+}
+
+.lady-title {
+    background-color: rgb(21, 10, 31);
+    opacity: 0.5;
+    color: rgb(255, 255, 255);
+    margin-left: 100px;
+    text-align: center;
+    width: 100%;
+}
+
+.bella-p-text {
+    margin-left: 150px;
+}
+
+/* -------- END CSS SECTION FOR BELLA -------- */
+
+
+.nav {
+    display: inline-block;
+    width: 40%;
+    background-color: coral;
+}
+
+.footer {
+    background-color: darkgreen;
+}
