@@ -28,8 +28,9 @@ body {
 /* -------- CSS SECTION FOR GIZMO -------- */
 
 .gizmo-div {
-    width: 600px;
+    width: 596px;
     display: inline-block;
+    margin-left: 3%;
 }
 
 .gizmoTitle {
@@ -51,20 +52,23 @@ body {
     opacity: 0.5;
     color: rgb(255, 255, 255);
     text-align: center;
-    width: 100%;
+    width: 95%;
+    border-radius: 7px;
+    margin-left: 15px;
 }
 
 .gizmo-p-text {
-    margin-left: 30px;
+    padding-left: 30px;
 } 
 /* -------- END CSS SECTION FOR GIZMO -------- */
 
 /* -------- START CSS SECTION FOR BELLA -------- */
 
 .bella-div {
-    width: 600px;
+    width: 596px;
     display: inline-block;
     vertical-align: top;
+    margin-left: 5%;
 }
 
 .bellaTitle {
@@ -73,27 +77,27 @@ body {
     text-align: center;
     background-color: brown;
     font-size: xx-large;
-    margin-left: 100px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 
 .bellaPic {
     display: inline-block;
     width: 500px;
-    margin-left: 25%;
-    margin-right: 80px;
+    padding-left: 50px;
 }
 
 .lady-title {
     background-color: rgb(21, 10, 31);
     opacity: 0.5;
     color: rgb(255, 255, 255);
-    margin-left: 100px;
     text-align: center;
-    width: 100%;
+    width: 95%;
+    border-radius: 7px;
+    margin-left: 15px;
 }
 
 .bella-p-text {
-    margin-left: 150px;
+    padding-left: 30px;
 }
 
 /* -------- END CSS SECTION FOR BELLA -------- */
