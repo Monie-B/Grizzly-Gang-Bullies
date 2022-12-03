@@ -59,6 +59,7 @@ body {
 
 .gizmo-p-text {
     padding-left: 30px;
+    color: white;
 } 
 /* -------- END CSS SECTION FOR GIZMO -------- */
 
@@ -98,6 +99,7 @@ body {
 
 .bella-p-text {
     padding-left: 30px;
+    color: white;
 }
 
 /* -------- END CSS SECTION FOR BELLA -------- */
@@ -110,5 +112,6 @@ body {
 }
 
 .footer {
-    background-color: darkgreen;
+    display: flex;
+    justify-content: center;
 }
